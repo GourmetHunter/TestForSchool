@@ -1,6 +1,6 @@
 Rivin 1 teksti on kirjoitettu jokseenkin järkevästi.
 Rivin 2 teksti on kirjasdtetu hasunosti.
-Rivi 3 tejdo ru pke hyvaä
+Tereveisiä gittohubista
 Rivin 4 teksti on taas hyvässä kunnossa!
 <<<<<<< HEAD
 Rivillä 5 kerron, että viikon 1 tehtävä 1 on suosikkini!
